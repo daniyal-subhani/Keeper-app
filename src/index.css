@@ -10,4 +10,22 @@ background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
 
 .add-notes , .add {
   box-shadow: 0 1px 5px rgb(138, 137, 137);
+
 }
+form.add-notes {
+  position: relative;
+}
+form.add-notes button {
+  position: absolute;
+  right: 18px;
+  bottom: -18px;
+  background: #f5ba13;
+  height: 36px;
+  width: 36px;
+  color: #eee;
+  box-shadow: 0 1px 5px rgb(138, 137, 137);
+}
+
+/* html {
+  font-family: "Lexend Deca", sans-serif;
+} */
