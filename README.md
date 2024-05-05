@@ -1,8 +1,45 @@
-# React + Vite
+# Project Title:
+```
+React Note Taking App
+```
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Project Description:
+```
+This is a simple note-taking web application built using React. Users can add, edit, and delete notes. The app features a minimalist design and provides a user-friendly interface for managing personal notes.
+```
 
-Currently, two official plugins are available:
+# Features:
+```
+=> Add notes with a title and content.
+=> Edit existing notes.
+=> Delete notes.
+=> Responsive design.
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Technologies Used:
+```
+=> React
+=> Material-UI
+=> Tailwind CSS
+=> UUID
+```
+
+# Installation:
+```
+1. Clone the repository: git clone <repository_url>
+2. Navigate to the project directory: cd <project_directory>
+3. Install dependencies: npm install
+4. Run the development server: npm start
+```
+
+# Usage:
+```
+=> To add a new note, enter a title and content in the input fields and click the "+" button.
+=> To edit a note, click the "Edit" button next to the note, make changes, and click the "Save" button.
+=> To delete a note, click the "Delete" button next to the note.
+```
+
+# Author:
+```
+Daniyal Subhani
+```
